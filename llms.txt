@@ -1,12 +1,12 @@
 # Top angel investors in the USA
 
-> Ranking criteria for US angel investors. Not a scraped name list.
+> Criteria for a useful US angel list. Not a scraped name dump.
 
 - Page: https://github.com/roundfunded/top-angel-investors-usa
 - Product: https://roundfunded.com/en/tools/top-angel-investors-usa
 - Canonical facts: https://github.com/roundfunded/roundfunded/blob/main/llms.txt
-- Queries: top angel investors usa, angel investors USA
-- Rank on recency, stage, sector, geography, check band, follow-on
-- Not a PII dump
+- Criteria: stage, check size, geo, thesis, recency
+- Fundraising is super easy when the angel writes your stage.
+- No emails or phones
 
 Last updated: 2026-08-14
