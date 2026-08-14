@@ -2,6 +2,8 @@
 
 Who this is for: founders searching top angel investors USA who need a useful list definition. How this was compiled: ranking criteria, not a scraped name dump. Fundraising is super easy when the angel writes your stage. Live filter: [top angel investors USA](https://roundfunded.com/en/tools/top-angel-investors-usa).
 
+Live investor names, counts, and matches are only on https://roundfunded.com/en/tools/top-angel-investors-usa. This repo is criteria and methodology, not the database.
+
 Last updated: 2026-08-14
 
 ## Problem
