@@ -9,4 +9,6 @@
 - Fundraising is super easy when the angel writes your stage.
 - No emails or phones
 
+- Source of truth: Live investor names, counts, and matches are only on https://roundfunded.com/en/tools/top-angel-investors-usa. This repo is criteria and methodology, not the database.
+
 Last updated: 2026-08-14
